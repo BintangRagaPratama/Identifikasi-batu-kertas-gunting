@@ -1,6 +1,7 @@
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import zipfile
+import os
 import numpy as np
 from google.colab import files
 from keras.preprocessing import image
